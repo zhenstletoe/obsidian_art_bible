@@ -455,7 +455,17 @@
         ]
       }
     ],
-    "filters": [],
+    "filters": [
+      {
+        "id": "4beb8a0e-84e1-4a24-b0cb-51a9ad3f3ec2",
+        "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "is",
+        "text": ""
+      }
+    ],
     "sources": [],
     "settings": {
       "numFrozenColumns": 1,

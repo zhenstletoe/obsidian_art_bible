@@ -56,13 +56,12 @@
             "id": "95384f44e024a21f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "dataloom",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Locations.loom"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Locations"
             }
           },
           {
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Locations.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Locations.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -244,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Locations.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,8 +282,9 @@
       "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "25c14fde0439d4c2",
+  "active": "95384f44e024a21f",
   "lastOpenFiles": [
+    "Untitled.base",
     "Characters table.loom",
     "Locations.loom",
     "README.md",
@@ -292,7 +292,6 @@
     "Untitled.md",
     "Characters table 1.loom",
     "Untitled.canvas",
-    "Untitled.base",
     "Untitled"
   ]
 }
