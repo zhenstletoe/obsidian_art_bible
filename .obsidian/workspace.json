@@ -44,10 +44,10 @@
             "state": {
               "type": "dataloom",
               "state": {
-                "file": "Untitled.loom"
+                "file": "Characters table.loom"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Characters table"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.loom",
+                "file": "Characters table.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.loom",
+                "file": "Characters table.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.loom",
+                "file": "Characters table.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,10 +220,10 @@
       "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "04fe3ceb1a6d3885",
+  "active": "25c14fde0439d4c2",
   "lastOpenFiles": [
     "Untitled.md",
-    "Untitled.loom",
+    "Characters table.loom",
     "Untitled.canvas",
     "README.md",
     "Untitled.base",

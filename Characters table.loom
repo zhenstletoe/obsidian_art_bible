@@ -56,11 +56,47 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Artist",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "2c159581-9a49-458d-a5d6-697c62cf86f8",
+            "content": "Женя",
+            "color": "yellow"
+          },
+          {
+            "id": "95cebe86-558f-4ae8-8dac-c5705ab78c51",
+            "content": "Антон",
+            "color": "brown"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
-        "content": "New Column",
+        "content": "Этап",
         "numberFormat": "number",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
@@ -83,7 +119,7 @@
         "index": 0,
         "sourceId": null,
         "creationDateTime": "2026-09-09T19:10:31.460Z",
-        "lastEditedDateTime": "2026-09-09T19:11:00.754Z",
+        "lastEditedDateTime": "2026-09-09T19:18:40.298Z",
         "cells": [
           {
             "id": "29c3f0c9-4fb6-4811-b921-9cc8c71fc029",
@@ -99,8 +135,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "674c3471-dfe2-4b80-8693-1655f2e04574",
+            "id": "a23afe87-c986-4ec6-bc92-4273d954e1e5",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": "2c159581-9a49-458d-a5d6-697c62cf86f8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2fb5d05-6075-4533-abd1-4b2285644265",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -127,8 +169,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "fdf52397-a7f7-493b-a6ad-0e08d4af3cdb",
+            "id": "f24abc83-0be0-467d-b686-bf6d11ce772e",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aaf1475c-7b4c-48c4-ab5f-7126df004b91",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -155,8 +203,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "8183c273-273b-47a3-9b8d-e4708d7c6617",
+            "id": "ab4be21b-2c07-46e9-8c7e-f91187b14397",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a580f27-209b-4bbd-961e-9a2cc4e69387",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -183,8 +237,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "78d6749f-2bc2-4abc-bbd2-3553bca1c236",
+            "id": "02089415-cbbf-46a4-a0aa-f8710cc8dbc6",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6fcd8a5e-fdc2-449a-9525-1475f23ad3d1",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -211,8 +271,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "89c1d7af-3538-4212-9c73-c6e326e7a444",
+            "id": "199eb5b3-e2fc-4c68-9eda-841589316424",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "57486072-ada4-4966-b0b4-4411270d3a0a",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -239,8 +305,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "e5063ac6-2e32-46dc-a8b8-1d83f9ae5f01",
+            "id": "0625d1f5-afa2-4082-9ede-087c6a3fe806",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "25b161c4-923a-4b6b-aaf8-74f17e469f48",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -267,8 +339,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "d1c97a7d-9c60-4b49-b2ff-c746903e930e",
+            "id": "4a779698-72f2-4078-ad4c-4d282e1f2f0f",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6f99d99b-de8b-4ace-9eb0-6e88dd3857ee",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -279,7 +357,7 @@
         "index": 7,
         "sourceId": null,
         "creationDateTime": "2026-09-09T19:12:06.524Z",
-        "lastEditedDateTime": "2026-09-09T19:12:19.166Z",
+        "lastEditedDateTime": "2026-09-09T19:19:02.845Z",
         "cells": [
           {
             "id": "0993dcb4-f77f-4ece-853f-f50b3a44cc1a",
@@ -295,8 +373,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "e3e94b70-44e9-42b7-9415-6da862e5d95a",
+            "id": "2d675a11-90f5-4c6a-83a6-1e7844c96341",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": "95cebe86-558f-4ae8-8dac-c5705ab78c51",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "919d67ac-54d3-4b17-8502-c17145befbf8",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -323,8 +407,14 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "4dece978-bd4e-41e8-9a65-5d11d6fc8805",
+            "id": "4b5eab30-f080-4605-af56-f7fc5e7d586a",
             "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fc67076d-c45c-491c-bee3-551f218842c2",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
             "content": "",
             "hasValidFrontmatter": null
           }
