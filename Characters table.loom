@@ -419,6 +419,40 @@
             "hasValidFrontmatter": null
           }
         ]
+      },
+      {
+        "id": "976fe726-03bb-4d20-998f-a5a20c6b7502",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:59:55.977Z",
+        "lastEditedDateTime": "2026-09-09T20:00:15.892Z",
+        "cells": [
+          {
+            "id": "f2dc4c9d-861f-4ad2-a2da-a29fd4a6e2a9",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "гг",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "243682e9-bdab-4b72-8699-ada178884dbb",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "ГГ",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a7cab5d-9a0d-4d0b-9989-350b85ca7872",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1429a51c-46fd-4e65-82aa-6de6cd96c8d8",
+            "columnId": "a14bd461-97c8-4f07-b9c1-c2aad777c909",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
       }
     ],
     "filters": [],
