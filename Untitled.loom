@@ -31,6 +31,31 @@
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
+        "type": "file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
@@ -67,8 +92,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "92c38391-9b6d-4250-9a6f-1d245bf28513",
+            "id": "8fd91263-73c4-40f0-b7c5-77a0b71039b2",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "674c3471-dfe2-4b80-8693-1655f2e04574",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -88,8 +120,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "ddf64919-cdb4-41f2-8332-48bd50c75c00",
+            "id": "fc34b83d-3459-46a9-b9f5-4e5170d7df74",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fdf52397-a7f7-493b-a6ad-0e08d4af3cdb",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -109,8 +148,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "21059181-b94c-4168-b68d-2e90a37187f4",
+            "id": "69a387f8-3eac-4cd3-88d2-726b8e20e0fb",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8183c273-273b-47a3-9b8d-e4708d7c6617",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -130,8 +176,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "9b2ec4dd-0c6f-448b-bdfc-7d58aba232fa",
+            "id": "73df6367-b14c-4f29-b8ce-11a5fb1d97b8",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "78d6749f-2bc2-4abc-bbd2-3553bca1c236",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -151,8 +204,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "dced288f-f063-47ce-97f2-48fb0dfa241c",
+            "id": "6204726e-7bd3-4a46-9078-02d4b00099b0",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89c1d7af-3538-4212-9c73-c6e326e7a444",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -172,8 +232,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "caf1b59a-a4ca-4194-aeee-356c96ff328a",
+            "id": "52167a2b-6e23-43f2-a80a-5fbb7b29f3bb",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5063ac6-2e32-46dc-a8b8-1d83f9ae5f01",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -193,8 +260,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "38ad80ed-15b3-4c6c-8b77-66f4465621ef",
+            "id": "864103f7-28a3-44b7-affd-1af041cdbc66",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d1c97a7d-9c60-4b49-b2ff-c746903e930e",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -214,8 +288,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "078524fd-8153-4c07-bcd1-9937936251f2",
+            "id": "231d60db-9ecf-4618-8d45-e8ad45144a03",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e3e94b70-44e9-42b7-9415-6da862e5d95a",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
@@ -235,8 +316,15 @@
             "hasValidFrontmatter": null
           },
           {
-            "id": "49650c6e-608c-4dce-acf9-8126a50acb02",
+            "id": "fb4f386a-e9be-4a2c-8c73-719a7cd2eb75",
             "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4dece978-bd4e-41e8-9a65-5d11d6fc8805",
+            "columnId": "98009f03-8f07-45a7-8fd2-b98a8a2176c3",
             "content": "",
             "hasValidFrontmatter": null
           }
