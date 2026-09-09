@@ -1,0 +1,255 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Characters",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "efd7c636-ea2b-4f28-9396-761b7d24570b",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:31.460Z",
+        "lastEditedDateTime": "2026-09-09T19:11:00.754Z",
+        "cells": [
+          {
+            "id": "29c3f0c9-4fb6-4811-b921-9cc8c71fc029",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "нарик рипер",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92c38391-9b6d-4250-9a6f-1d245bf28513",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "52dc9182-bbb5-4d35-87ef-1ce4114d194a",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:34.093Z",
+        "lastEditedDateTime": "2026-09-09T19:11:07.826Z",
+        "cells": [
+          {
+            "id": "3639b937-bd76-4496-be02-e1cebe3866cb",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "лучший друг нарик ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ddf64919-cdb4-41f2-8332-48bd50c75c00",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2191b131-dd98-475f-8017-196dfea012f2",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:34.959Z",
+        "lastEditedDateTime": "2026-09-09T19:11:22.046Z",
+        "cells": [
+          {
+            "id": "cf76c720-5c42-43ca-8351-81ba46369c4f",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "сосед с косой на колесе старик",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "21059181-b94c-4168-b68d-2e90a37187f4",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "98a8fdf0-4e99-454f-8c34-266a82505cec",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:35.638Z",
+        "lastEditedDateTime": "2026-09-09T19:11:24.603Z",
+        "cells": [
+          {
+            "id": "43b2d0e7-3a05-49d9-9b3f-dcf5af659698",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "девочка со сломанной ногой ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9b2ec4dd-0c6f-448b-bdfc-7d58aba232fa",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8602b5ff-ac7b-419c-8a87-82d6dc2d8adb",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:54.016Z",
+        "lastEditedDateTime": "2026-09-09T19:11:31.451Z",
+        "cells": [
+          {
+            "id": "7e5fa68c-48d5-4e16-b0ef-e2ef25d87de5",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "бармен ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dced288f-f063-47ce-97f2-48fb0dfa241c",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7da28ee9-5c58-417b-ae3c-bfea846279e3",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:10:55.127Z",
+        "lastEditedDateTime": "2026-09-09T19:11:58.674Z",
+        "cells": [
+          {
+            "id": "d599af0c-9f60-4a05-92fa-2039727927b7",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "бомжи доебывающеися ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "caf1b59a-a4ca-4194-aeee-356c96ff328a",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "08a37635-df96-47c9-943d-c809c386c250",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:11:59.327Z",
+        "lastEditedDateTime": "2026-09-09T19:12:05.808Z",
+        "cells": [
+          {
+            "id": "69851fbc-5a52-4bbd-be58-c420f8ff37e5",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "корпораты ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38ad80ed-15b3-4c6c-8b77-66f4465621ef",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fae184b2-c82c-45ba-9762-ebc3b4164e88",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:12:06.524Z",
+        "lastEditedDateTime": "2026-09-09T19:12:19.166Z",
+        "cells": [
+          {
+            "id": "0993dcb4-f77f-4ece-853f-f50b3a44cc1a",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "банда , главарь банды ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "078524fd-8153-4c07-bcd1-9937936251f2",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e1f97132-b550-4917-bbbf-bd4611b8d9a6",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2026-09-09T19:12:19.959Z",
+        "lastEditedDateTime": "2026-09-09T19:12:28.426Z",
+        "cells": [
+          {
+            "id": "15e477e7-62f2-4814-8925-9cad9ddc38f3",
+            "columnId": "a5720cb9-6bc8-41a9-8ba3-0792a8396437",
+            "content": "кенты из порта",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "49650c6e-608c-4dce-acf9-8126a50acb02",
+            "columnId": "80807078-b2dd-4468-a0ff-0233aa6208fe",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.17"
+}

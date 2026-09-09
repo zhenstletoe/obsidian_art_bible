@@ -11,16 +11,47 @@
             "id": "67c0446bfeca80b5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6de5b34ff7a8dbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "04fe3ceb1a6d3885",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Untitled.loom"
+              },
+              "icon": "lucide-file",
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -160,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,14 +216,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "25c14fde0439d4c2",
+  "active": "04fe3ceb1a6d3885",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.loom",
     "Untitled.canvas",
-    "Untitled.base",
     "README.md",
+    "Untitled.base",
     "Untitled"
   ]
 }
